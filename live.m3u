@@ -1,0 +1,34 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw" group-title="SPORTS", TOFFEE LIVE
+https://kicc.rkbdmoza.xyz/live.php?id=4edcfc36d49f&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZN-wqfgXCZJOZqLb5ob-o8af71Lb0DlA_4Q&usqp=CAU" group-title="SPORTS", T20 LIVE 
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru:443/ddh2/premium267/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw" group-title="SPORTS", T20 LIVE
+https://shounwifi.net/ott-player/tofee-english.m3u8  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZN-wqfgXCZJOZqLb5ob-o8af71Lb0DlA_4Q&usqp=CAU" group-title="SPORTS", T20 LIVE 
+https://mm4-97.tinyuri.org/live/m4-1080p.m3u8|referer=https://emdftinya.tinyuri.org/.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Star_Sports_2017_Believe.jpg/revision/latest?cb=20240316181517" group-title="SPORTS", STAR 4K 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Star_Sports_2017_Believe.jpg/revision/latest?cb=20240316181517" group-title="SPORTS", STAR SPORTS HD
+http://103.120.172.74:4600
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png" group-title="SPORTS", STAR SPORTS 1 HINDI  
+http://vo01.mohdtv.com:8880//live/hdtv0405dda140a6/15954034/55273.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkgBxd8/20240430-221046.png"group-title="SPORTS", T SPORTS HD
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=LVL0gbgkqSLwRhpxvjnK4A&expires=1718978665&user=ff39d05fef0749028389f28943b73363
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkgBxd8/20240430-221046.png"group-title="SPORTS", T SPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESHI", GAZI TV HD
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkgBxd8/20240430-221046.png"group-title="SPORTS", T SPORTS HD
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
